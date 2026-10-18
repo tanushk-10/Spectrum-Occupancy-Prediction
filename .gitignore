@@ -1,0 +1,10 @@
+data/*.csv.gz
+data/hist/
+data/occ/
+data/*.part
+data/*.tar.gz
+results/*.parquet
+*.log
+__pycache__/
+results/*_log.txt
+results/fetch_err.txt

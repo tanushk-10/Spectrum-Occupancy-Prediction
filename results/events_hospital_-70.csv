@@ -1,0 +1,7 @@
+site,freq_MHz,thr_dBm,on_hours,span_days,n_bursts,burst_med_ms,burst_p90_ms,burst_max_ms,p_active,state_entropy,mean_active_run_min,mean_quiet_run_min,n_transitions,acf_24h,acf_1h,r2_hour_of_day,ls_24h,ls_12h,hod_peak,hod_trough
+hospital,782.0,-70,2.7,291.1,21,4.5,4.5,8.5,0.312,0.896,12.5,22.0,8,,,,,,12,11
+hospital,821.3,-70,2.7,291.1,3,1.5,1.5,1.5,0.062,0.337,10.0,75.0,2,,,,,,13,11
+hospital,842.5,-70,2.7,291.1,16,1.0,1.0,1.0,0.062,0.337,10.0,75.0,2,,,,,,13,11
+hospital,2412.0,-70,2.7,291.1,457,0.5,0.5,3.0,0.875,0.544,140.0,10.0,2,,,,,,12,11
+hospital,2437.0,-70,2.7,291.1,765,0.5,0.5,1.0,1.0,0.0,160.0,,0,,,,,,12,11
+hospital,2462.0,-70,2.7,291.1,856,0.5,0.5,1.5,0.938,0.337,150.0,10.0,1,,,,,,12,11
